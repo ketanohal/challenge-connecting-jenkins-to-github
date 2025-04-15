@@ -1,0 +1,1 @@
+<a href='http://localhost:8080/job/essential-training-jenkins/job/challenge-connecting-jenkins-to-github/1/'><img src='http://localhost:8080/buildStatus/icon?job=essential-training-jenkins%2Fchallenge-connecting-jenkins-to-github&build=1'></a>
